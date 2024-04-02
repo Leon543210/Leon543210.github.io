@@ -3,6 +3,6 @@ li{
 }
 
 nav{
-    display: block;
+    display: flex;
     width: 100%;
 }
