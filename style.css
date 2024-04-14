@@ -7,3 +7,7 @@ nav{
     display: flex;
     width: 100%;
 }
+
+#home, #about, #project{
+    font-size: 20px;
+}
